@@ -18,7 +18,7 @@ A repository for experimenting with **National Instruments LabVIEW**. This repo 
 - Coverage: state machine
 
 ### 3. Random Number Analyzer
-![](./projects/random-number-analyzer/Previews/block-diagram.png)
+![](./projects/random-number-analyzer/previews/block-diagram.png)
 - A state machine that analyzes an array of number visualized with waveform graph.
 - Shows basic stats function implementation on state transitions.
 - Coverage: state machine, project organization
