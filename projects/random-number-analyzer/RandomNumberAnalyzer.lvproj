@@ -17,10 +17,9 @@
 			<Item Name="Output" Type="Folder"/>
 			<Item Name="Process" Type="Folder"/>
 		</Item>
-		<Item Name="TypeDefs" Type="Folder">
-			<Item Name="MainState.ctl" Type="VI" URL="../Source/TypeDefs/MainState.ctl"/>
-		</Item>
+		<Item Name="TypeDefs" Type="Folder"/>
 		<Item Name="Main.vi" Type="VI" URL="../Source/Main.vi"/>
+		<Item Name="MainState.ctl" Type="VI" URL="../Source/TypeDefs/MainState.ctl"/>
 		<Item Name="Utilities.lvlib" Type="Library" URL="../Source/Utilities/Utilities.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
