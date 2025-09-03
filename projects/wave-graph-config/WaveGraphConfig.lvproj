@@ -12,7 +12,11 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="SubVIs" Type="Folder">
+			<Item Name="ConfigurationDialog.vi" Type="VI" URL="../Source/SubVIs/ConfigurationDialog.vi"/>
+		</Item>
 		<Item Name="Typedefs" Type="Folder">
+			<Item Name="ConfigurationSettings.ctl" Type="VI" URL="../Source/Typedefs/ConfigurationSettings.ctl"/>
 			<Item Name="MainState.ctl" Type="VI" URL="../Source/Typedefs/MainState.ctl"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Source/Main.vi"/>
